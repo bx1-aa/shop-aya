@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
             { name: 'عطر 6', image: 'images/parfum6.png', description: 'عطر مميز', price: '150 MAD' },
             { name: 'عطر 7', image: 'images/parfum7.png', description: 'عطر مميز', price: '150 MAD' },
             { name: 'عطر 8', image: 'images/parfan8.png', description: 'عطر مميز', price: '50 MAD' },
-            { name: 'عطر 9', image: 'images/parfan9.png', description: 'عطر مميز', price: '100 MAD' },
+            { name: 'عطر 9', image: 'images/pafan9.png', description: 'عطر مميز', price: '100 MAD' },
             { name: 'عطر 10', image: 'images/parfum10.png', description: 'عطر مميز', price: ' 150 MAD' },
             { name: 'عطر 11', image: 'images/parfum11.png', description: 'عطر مميز', price: '200 MAD' },
             { name: 'عطر 12', image: 'images/parfum12.png', description: 'عطر مميز', price: '200 MAD' },

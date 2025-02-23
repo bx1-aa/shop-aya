@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h3>${product.name}</h3>
                 <p>${product.description}</p>
                 <p>${product.price}</p>
-                <button onclick="window.open('https://wa.me/+21299667557?text=أريد شراء ${product.name}')">شراء عبر واتساب</button> 
+                <button onclick="window.open('https://wa.me/+212614509154?text=أريد شراء ${product.name}')">شراء عبر واتساب</button> 
                 `;
             productsSection.appendChild(productDiv);
         });
